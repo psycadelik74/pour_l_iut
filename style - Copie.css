@@ -1,0 +1,41 @@
+.truchaut{
+    padding-top: 2vh;
+    background-color: rgb(27, 23, 23);
+    height: 8vh;
+    color: white;
+    font-size: 5vh;
+    text-align: center  ;
+
+}
+
+.trucnoir{
+    background-color:lightgray;
+    background-image:url("body_bg.png");
+    height: 90vh;
+}
+
+.trucblanc{
+    display: flex;
+    background-image: url("container_bg.png");
+    margin-left: 10vh;
+    margin-right: 10vh;
+    background-color: lightgray;
+    height: 80vh;
+}
+
+ul{
+    display:flex;
+    font-size: 5vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+}
+.liens{
+    display: inline-flex;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+.liens2{
+    margin-left: 7vh;
+    margin-right: 7vh;
+}
+
